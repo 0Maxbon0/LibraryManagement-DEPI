@@ -17,12 +17,12 @@ namespace LibraryManagement.DAL.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "8.0.8")
+                .HasAnnotation("ProductVersion", "8.0.10")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
-            modelBuilder.Entity("LibraryManagement.Models.Book", b =>
+            modelBuilder.Entity("Book", b =>
                 {
                     b.Property<int>("BookID")
                         .ValueGeneratedOnAdd()
@@ -32,33 +32,33 @@ namespace LibraryManagement.DAL.Migrations
 
                     b.Property<string>("Author")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<int>("CategoryID")
-                        .HasColumnType("int");
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)");
 
                     b.Property<int>("CopiesAvailable")
                         .HasColumnType("int");
-
-                    b.Property<string>("CoverImageUrl")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
 
                     b.Property<DateTime>("DateAdded")
                         .HasColumnType("datetime2");
 
                     b.Property<string>("Description")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(1000)
+                        .HasColumnType("nvarchar(1000)");
 
                     b.Property<DateTime>("DueDate")
                         .HasColumnType("datetime2");
 
                     b.Property<string>("Genre")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(50)
+                        .HasColumnType("nvarchar(50)");
 
                     b.Property<string>("ISBN")
+                        .HasMaxLength(20)
+                        .HasColumnType("nvarchar(20)");
+
+                    b.Property<string>("Image")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
@@ -72,109 +72,20 @@ namespace LibraryManagement.DAL.Migrations
                         .HasColumnType("int");
 
                     b.Property<string>("Publisher")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)");
 
                     b.Property<string>("Title")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)");
 
                     b.Property<int>("TotalCopies")
                         .HasColumnType("int");
 
                     b.HasKey("BookID");
 
-                    b.HasIndex("CategoryID");
-
                     b.ToTable("Books");
-
-                    b.HasData(
-                        new
-                        {
-                            BookID = 1,
-                            Author = "John McCarthy",
-                            CategoryID = 1,
-                            CopiesAvailable = 5,
-                            CoverImageUrl = "~/images/ai.jpg",
-                            DateAdded = new DateTime(2024, 10, 11, 0, 56, 47, 804, DateTimeKind.Local).AddTicks(5390),
-                            Description = "An in-depth look into AI.",
-                            DueDate = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            Genre = "Technology",
-                            ISBN = "978-1234567890",
-                            IsAvailable = true,
-                            PenaltyAmount = 0m,
-                            PublishedYear = 2020,
-                            Publisher = "Tech Books",
-                            Title = "Artificial Intelligence",
-                            TotalCopies = 10
-                        },
-                        new
-                        {
-                            BookID = 2,
-                            Author = "Jane Doe",
-                            CategoryID = 2,
-                            CopiesAvailable = 2,
-                            CoverImageUrl = "~/images/cs.jpg",
-                            DateAdded = new DateTime(2024, 10, 11, 0, 56, 47, 804, DateTimeKind.Local).AddTicks(5560),
-                            Description = "Basic principles of computer science.",
-                            DueDate = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            Genre = "Education",
-                            ISBN = "978-0987654321",
-                            IsAvailable = true,
-                            PenaltyAmount = 0m,
-                            PublishedYear = 2018,
-                            Publisher = "Edu Books",
-                            Title = "Computer Science Fundamentals",
-                            TotalCopies = 5
-                        },
-                        new
-                        {
-                            BookID = 3,
-                            Author = "Robert Sedgewick",
-                            CategoryID = 2,
-                            CopiesAvailable = 3,
-                            CoverImageUrl = "~/images/algo.jpg",
-                            DateAdded = new DateTime(2024, 10, 11, 0, 56, 47, 804, DateTimeKind.Local).AddTicks(5567),
-                            Description = "A comprehensive guide to algorithm design.",
-                            DueDate = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            Genre = "Education",
-                            ISBN = "978-1111111111",
-                            IsAvailable = true,
-                            PenaltyAmount = 0m,
-                            PublishedYear = 2019,
-                            Publisher = "Algo Press",
-                            Title = "Algorithm Design",
-                            TotalCopies = 8
-                        });
-                });
-
-            modelBuilder.Entity("LibraryManagement.Models.Category", b =>
-                {
-                    b.Property<int>("CategoryID")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("CategoryID"));
-
-                    b.Property<string>("CategoryName")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.HasKey("CategoryID");
-
-                    b.ToTable("Categories");
-
-                    b.HasData(
-                        new
-                        {
-                            CategoryID = 1,
-                            CategoryName = "Technology"
-                        },
-                        new
-                        {
-                            CategoryID = 2,
-                            CategoryName = "Education"
-                        });
                 });
 
             modelBuilder.Entity("LibraryManagement.Models.Checkout", b =>
@@ -558,20 +469,9 @@ namespace LibraryManagement.DAL.Migrations
                     b.ToTable("AspNetUserTokens", (string)null);
                 });
 
-            modelBuilder.Entity("LibraryManagement.Models.Book", b =>
-                {
-                    b.HasOne("LibraryManagement.Models.Category", "Category")
-                        .WithMany("Books")
-                        .HasForeignKey("CategoryID")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Category");
-                });
-
             modelBuilder.Entity("LibraryManagement.Models.Checkout", b =>
                 {
-                    b.HasOne("LibraryManagement.Models.Book", "Book")
+                    b.HasOne("Book", "Book")
                         .WithMany("Checkouts")
                         .HasForeignKey("BookID")
                         .OnDelete(DeleteBehavior.Cascade)
@@ -609,7 +509,7 @@ namespace LibraryManagement.DAL.Migrations
 
             modelBuilder.Entity("LibraryManagement.Models.Reservation", b =>
                 {
-                    b.HasOne("LibraryManagement.Models.Book", "Book")
+                    b.HasOne("Book", "Book")
                         .WithMany("Reservations")
                         .HasForeignKey("BookID")
                         .OnDelete(DeleteBehavior.Cascade)
@@ -639,7 +539,7 @@ namespace LibraryManagement.DAL.Migrations
 
             modelBuilder.Entity("LibraryManagement.Models.Review", b =>
                 {
-                    b.HasOne("LibraryManagement.Models.Book", "Book")
+                    b.HasOne("Book", "Book")
                         .WithMany("Reviews")
                         .HasForeignKey("BookID")
                         .OnDelete(DeleteBehavior.Cascade)
@@ -707,18 +607,13 @@ namespace LibraryManagement.DAL.Migrations
                         .IsRequired();
                 });
 
-            modelBuilder.Entity("LibraryManagement.Models.Book", b =>
+            modelBuilder.Entity("Book", b =>
                 {
                     b.Navigation("Checkouts");
 
                     b.Navigation("Reservations");
 
                     b.Navigation("Reviews");
-                });
-
-            modelBuilder.Entity("LibraryManagement.Models.Category", b =>
-                {
-                    b.Navigation("Books");
                 });
 
             modelBuilder.Entity("LibraryManagement.Models.Checkout", b =>

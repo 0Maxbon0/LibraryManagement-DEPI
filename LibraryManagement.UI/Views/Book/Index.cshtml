@@ -1,4 +1,4 @@
-﻿@model IEnumerable<LibraryManagement.BLL.Dtos.BookDtos>
+﻿@model IEnumerable<LibraryManagement.Models.Book>
 
 <style>
     /* General Styles */
@@ -140,28 +140,15 @@
     <div class="book-list">
         @if (Model != null && Model.Any())
         {
-            <p>Number of books: @Model.Count()</p> <!-- Check how many books are returned -->
+            <p>Number of books: @Model.Count()</p> 
             foreach (var book in Model)
             {
-             <!--  <p>@book.Title - @book.Author</p> -->
-                string imageUrl;
-
-                
-                if (book.Title.Contains("AI", StringComparison.OrdinalIgnoreCase))
-                {
-                    imageUrl = "/images/ai.jpg"; 
-                }
-                else if (book.Title.Contains("Computer", StringComparison.OrdinalIgnoreCase))
-                {
-                    imageUrl = "/images/cs.jpg"; 
-                }
-                else
-                {
-                    imageUrl = "/images/algo.jpg"; 
-                }
+                var imageUrl = !string.IsNullOrEmpty(book.Image) ? book.Image : "images.jpg";
+      
 
                 <div class="book-item">
-                    <img src="@imageUrl" alt="Cover of @book.Title" class="book-cover" /> 
+                    <img src="@Url.Content("~/Images/" + imageUrl)" alt="Cover of @book.Title" class="book-cover" />
+
                     <div class="book-details">
                         <h3>@book.Title</h3>
                         <p>Author: @book.Author</p>
@@ -181,6 +168,7 @@
         }
     </div>
 </body>
+
 
 @section Scripts {
     @{

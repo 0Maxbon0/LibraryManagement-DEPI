@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\LibraryManagement.UI.csproj": {}
+    "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\LibraryManagement.UI.csproj": {}
   },
   "projects": {
-    "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.BLL\\LibraryManagement.BLL.csproj": {
+    "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.BLL\\LibraryManagement.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.BLL\\LibraryManagement.BLL.csproj",
+        "projectUniqueName": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.BLL\\LibraryManagement.BLL.csproj",
         "projectName": "LibraryManagement.BLL",
-        "projectPath": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.BLL\\LibraryManagement.BLL.csproj",
+        "projectPath": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.BLL\\LibraryManagement.BLL.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.BLL\\obj\\",
+        "outputPath": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.BLL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -65,14 +71,14 @@
         }
       }
     },
-    "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.DAL\\LibraryManagement.DAL.csproj": {
+    "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.DAL\\LibraryManagement.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.DAL\\LibraryManagement.DAL.csproj",
+        "projectUniqueName": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.DAL\\LibraryManagement.DAL.csproj",
         "projectName": "LibraryManagement.DAL",
-        "projectPath": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.DAL\\LibraryManagement.DAL.csproj",
+        "projectPath": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.DAL\\LibraryManagement.DAL.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.DAL\\obj\\",
+        "outputPath": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -90,8 +96,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.Models\\LibraryManagement.Models.csproj": {
-                "projectPath": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.Models\\LibraryManagement.Models.csproj"
+              "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.Models\\LibraryManagement.Models.csproj": {
+                "projectPath": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.Models\\LibraryManagement.Models.csproj"
               }
             }
           }
@@ -117,11 +123,15 @@
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.8, )"
+              "version": "[8.0.10, )"
             },
             "Microsoft.AspNetCore.Mvc": {
               "target": "Package",
               "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -129,13 +139,13 @@
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[8.0.8, )"
+              "version": "[8.0.10, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.8, )"
+              "version": "[8.0.10, )"
             }
           },
           "imports": [
@@ -158,14 +168,14 @@
         }
       }
     },
-    "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.Models\\LibraryManagement.Models.csproj": {
+    "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.Models\\LibraryManagement.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.Models\\LibraryManagement.Models.csproj",
+        "projectUniqueName": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.Models\\LibraryManagement.Models.csproj",
         "projectName": "LibraryManagement.Models",
-        "projectPath": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.Models\\LibraryManagement.Models.csproj",
+        "projectPath": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.Models\\LibraryManagement.Models.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.Models\\obj\\",
+        "outputPath": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -204,9 +214,13 @@
               "target": "Package",
               "version": "[3.0.0-rc1-final, )"
             },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
             "Microsoft.Extensions.Identity.Stores": {
               "target": "Package",
-              "version": "[8.0.8, )"
+              "version": "[8.0.10, )"
             }
           },
           "imports": [
@@ -229,14 +243,14 @@
         }
       }
     },
-    "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\LibraryManagement.UI.csproj": {
+    "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\LibraryManagement.UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\LibraryManagement.UI.csproj",
+        "projectUniqueName": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\LibraryManagement.UI.csproj",
         "projectName": "LibraryManagement.UI",
-        "projectPath": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\LibraryManagement.UI.csproj",
+        "projectPath": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\LibraryManagement.UI.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\obj\\",
+        "outputPath": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -254,14 +268,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.BLL\\LibraryManagement.BLL.csproj": {
-                "projectPath": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.BLL\\LibraryManagement.BLL.csproj"
+              "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.BLL\\LibraryManagement.BLL.csproj": {
+                "projectPath": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.BLL\\LibraryManagement.BLL.csproj"
               },
-              "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.DAL\\LibraryManagement.DAL.csproj": {
-                "projectPath": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.DAL\\LibraryManagement.DAL.csproj"
+              "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.DAL\\LibraryManagement.DAL.csproj": {
+                "projectPath": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.DAL\\LibraryManagement.DAL.csproj"
               },
-              "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.Models\\LibraryManagement.Models.csproj": {
-                "projectPath": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.Models\\LibraryManagement.Models.csproj"
+              "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.Models\\LibraryManagement.Models.csproj": {
+                "projectPath": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.Models\\LibraryManagement.Models.csproj"
               }
             }
           }
@@ -281,15 +295,19 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.8, )"
+              "version": "[8.0.10, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[8.0.5, )"
+              "version": "[8.0.6, )"
             }
           },
           "imports": [

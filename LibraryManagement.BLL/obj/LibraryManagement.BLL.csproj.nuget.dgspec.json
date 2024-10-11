@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.BLL\\LibraryManagement.BLL.csproj": {}
+    "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.BLL\\LibraryManagement.BLL.csproj": {}
   },
   "projects": {
-    "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.BLL\\LibraryManagement.BLL.csproj": {
+    "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.BLL\\LibraryManagement.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.BLL\\LibraryManagement.BLL.csproj",
+        "projectUniqueName": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.BLL\\LibraryManagement.BLL.csproj",
         "projectName": "LibraryManagement.BLL",
-        "projectPath": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.BLL\\LibraryManagement.BLL.csproj",
+        "projectPath": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.BLL\\LibraryManagement.BLL.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.BLL\\obj\\",
+        "outputPath": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.BLL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

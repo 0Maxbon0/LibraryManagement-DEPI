@@ -2,11 +2,9 @@
 using LibraryManagement.BLL.Dtos;
 using LibraryManagement.DAL.Db;
 using Microsoft.EntityFrameworkCore;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using LibraryManagement.Models;
 using Microsoft.AspNetCore.Authorization;
+using LibraryManagement.UI.Models.ActionRequest;
 
 namespace LibraryManagement.UI.Controllers
 {
@@ -27,7 +25,7 @@ namespace LibraryManagement.UI.Controllers
                 .ThenInclude(c => c.Penalty) 
                 .ToListAsync();
 
-            var bookDtos = books.Select(book => new BookDtos
+            var bookmodel = books.Select(book => new Book
             {
                 BookID = book.BookID,
                 Title = book.Title,
@@ -35,10 +33,30 @@ namespace LibraryManagement.UI.Controllers
                 Genre = book.Genre,
                 IsAvailable = book.IsAvailable,
                 Description = book.Description,
+                Image = book.Image,
             }).ToList();
 
-            return View(bookDtos);
+            return View(bookmodel);
         }
+        public string UploadFile(IFormFile file, string destinationFolder)
+        {
+            string uniqueFileName = string.Empty;
+
+            if (file != null && file.Length > 0)
+            {
+                string uploadsFolder = Path.Combine(@"./wwwroot/", destinationFolder);
+                uniqueFileName = Guid.NewGuid().ToString() + "_" + file.FileName;
+                string filePath = Path.Combine(uploadsFolder, uniqueFileName);
+
+                using (var fileStream = new FileStream(filePath, FileMode.Create))
+                {
+                    file.CopyTo(fileStream);
+                }
+            }
+
+            return uniqueFileName;
+        }
+
 
         public IActionResult Create()
         {
@@ -46,8 +64,11 @@ namespace LibraryManagement.UI.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> Create(BookDtos model)
+        public async Task<IActionResult> Create(CreateBookActionRequest model)
         {
+
+            string uniqueFileName = UploadFile(model.Image, "Images");
+
             if (ModelState.IsValid)
             {
                 var newBook = new Book
@@ -57,7 +78,8 @@ namespace LibraryManagement.UI.Controllers
                     Genre = model.Genre,
                     IsAvailable = model.IsAvailable,
                     DateAdded = DateTime.Now, 
-                    CoverImageUrl = model.CoverImageUrl 
+                    Description = model.Description,
+                    Image = uniqueFileName
                 };
 
                 _context.Books.Add(newBook);
@@ -67,7 +89,7 @@ namespace LibraryManagement.UI.Controllers
             var errors = ModelState.Values.SelectMany(v => v.Errors);
             foreach (var error in errors)
             {
-                Console.WriteLine(error.ErrorMessage);  // Log the errors for debugging
+                Console.WriteLine(error.ErrorMessage);  
             }
 
             return View(model); 
@@ -85,9 +107,10 @@ namespace LibraryManagement.UI.Controllers
                 Title = book.Title,
                 Author = book.Author,
                 Genre = book.Genre,
-                IsAvailable = book.IsAvailable,
-                CoverImageUrl = book.CoverImageUrl 
-            };
+                Description = book.Description,
+                IsAvailable = book.IsAvailable
+
+};
 
             return View(model);
         }
@@ -98,51 +121,57 @@ namespace LibraryManagement.UI.Controllers
             if (ModelState.IsValid)
             {
                 var book = await _context.Books.FindAsync(model.BookID);
+                Console.WriteLine(model.BookID);
                 if (book == null) return NotFound();
-
                 book.Title = model.Title;
                 book.Author = model.Author;
                 book.Genre = model.Genre;
                 book.IsAvailable = model.IsAvailable;
-                book.CoverImageUrl = model.CoverImageUrl; 
+                book.Description = model.Description;
+            
 
                 _context.Books.Update(book);
                 await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
+                return RedirectToAction("Index", "Book");
+
             }
-            return View(model); 
+            return NotFound(); ; 
         }
 
         [HttpGet]
         public async Task<IActionResult> Delete(int id)
         {
+            Console.WriteLine($"Received ID: {id}");
+
             var book = await _context.Books.FindAsync(id);
             if (book == null) return NotFound();
 
-            var model = new BookDtos
+            var model = new Book
             {
                 BookID = book.BookID,
                 Title = book.Title,
                 Author = book.Author,
                 Genre = book.Genre,
                 IsAvailable = book.IsAvailable,
-                CoverImageUrl = book.CoverImageUrl
+                Image = book.Image
             };
 
             return View(model);
         }
 
-        // Delete Book - POST
-        [HttpPost, ActionName("Delete")]
+        [HttpPost]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
+            Console.WriteLine($"Received ID: {id}");
             var book = await _context.Books.FindAsync(id);
             if (book != null)
             {
                 _context.Books.Remove(book);
                 await _context.SaveChangesAsync();
+                return RedirectToAction("Index", "Book");
+
             }
-            return RedirectToAction(nameof(Index));
+            return NotFound();
         }
     }
 }

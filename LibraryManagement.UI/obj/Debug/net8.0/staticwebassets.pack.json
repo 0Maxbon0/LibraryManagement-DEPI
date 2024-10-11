@@ -1,267 +1,383 @@
 {
   "Files": [
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\LibraryManagement.UI.bundle.scp.css",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\LibraryManagement.UI.bundle.scp.css",
       "PackagePath": "staticwebassets\\LibraryManagement.UI.bundle.scp.css"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\Images\\Leonardo_Phoenix_A_warm_and_inviting_digital_illustration_of_a_1.jpg",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\Images\\06f7c143-9a91-415f-be6e-290ddac245ec_working.png",
+      "PackagePath": "staticwebassets\\Images\\06f7c143-9a91-415f-be6e-290ddac245ec_working.png"
+    },
+    {
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\Images\\084791b5-03df-4662-9212-0f63f506b002_GDSC 2023 certificate.png",
+      "PackagePath": "staticwebassets\\Images\\084791b5-03df-4662-9212-0f63f506b002_GDSC 2023 certificate.png"
+    },
+    {
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\Images\\1c4ba28f-2121-4380-aad7-af817169912b_working.png",
+      "PackagePath": "staticwebassets\\Images\\1c4ba28f-2121-4380-aad7-af817169912b_working.png"
+    },
+    {
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\Images\\236f7930-9b02-40a6-804a-4e83303bc021_images.jpg",
+      "PackagePath": "staticwebassets\\Images\\236f7930-9b02-40a6-804a-4e83303bc021_images.jpg"
+    },
+    {
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\Images\\2e8abeaf-417c-4733-8839-41879361886a_Maxim (2).JPG",
+      "PackagePath": "staticwebassets\\Images\\2e8abeaf-417c-4733-8839-41879361886a_Maxim (2).JPG"
+    },
+    {
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\Images\\327637cc-e2f5-4418-9485-677491ec9ac4_working.png",
+      "PackagePath": "staticwebassets\\Images\\327637cc-e2f5-4418-9485-677491ec9ac4_working.png"
+    },
+    {
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\Images\\3624444d-c3c7-4c1f-a659-a8192edbd759_working.png",
+      "PackagePath": "staticwebassets\\Images\\3624444d-c3c7-4c1f-a659-a8192edbd759_working.png"
+    },
+    {
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\Images\\3ba0b8c0-5ead-4b45-af6a-b3afac533bb4_working.png",
+      "PackagePath": "staticwebassets\\Images\\3ba0b8c0-5ead-4b45-af6a-b3afac533bb4_working.png"
+    },
+    {
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\Images\\4509be93-db90-472d-a1f8-26de035434fa_images.jpg",
+      "PackagePath": "staticwebassets\\Images\\4509be93-db90-472d-a1f8-26de035434fa_images.jpg"
+    },
+    {
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\Images\\49ea6476-351b-477a-af88-1caf1565833d_working.png",
+      "PackagePath": "staticwebassets\\Images\\49ea6476-351b-477a-af88-1caf1565833d_working.png"
+    },
+    {
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\Images\\4e75064e-3476-42a6-b772-5a835e257775_Maxim (1).JPG",
+      "PackagePath": "staticwebassets\\Images\\4e75064e-3476-42a6-b772-5a835e257775_Maxim (1).JPG"
+    },
+    {
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\Images\\52dc82fb-5820-43b5-b019-4b32becc1b32_Maxim (2).JPG",
+      "PackagePath": "staticwebassets\\Images\\52dc82fb-5820-43b5-b019-4b32becc1b32_Maxim (2).JPG"
+    },
+    {
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\Images\\590f1b94-286b-4c2f-afc8-d4dbb02bdc94_water bill.jpg",
+      "PackagePath": "staticwebassets\\Images\\590f1b94-286b-4c2f-afc8-d4dbb02bdc94_water bill.jpg"
+    },
+    {
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\Images\\592a663d-4b7b-4cba-ad5c-64a17ec05079_working.png",
+      "PackagePath": "staticwebassets\\Images\\592a663d-4b7b-4cba-ad5c-64a17ec05079_working.png"
+    },
+    {
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\Images\\602a659d-5291-4b72-92aa-576f91c84cfb_working.png",
+      "PackagePath": "staticwebassets\\Images\\602a659d-5291-4b72-92aa-576f91c84cfb_working.png"
+    },
+    {
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\Images\\62639e8a-6e3a-4715-b1ce-34388b06a97a_Maxim (1).JPG",
+      "PackagePath": "staticwebassets\\Images\\62639e8a-6e3a-4715-b1ce-34388b06a97a_Maxim (1).JPG"
+    },
+    {
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\Images\\7100b519-efbe-42e2-9045-0672d31f6d2a_Maxim (2).JPG",
+      "PackagePath": "staticwebassets\\Images\\7100b519-efbe-42e2-9045-0672d31f6d2a_Maxim (2).JPG"
+    },
+    {
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\Images\\74e5658d-cdb1-4371-b5e2-de76d1368cdc_ASKME all.jpg",
+      "PackagePath": "staticwebassets\\Images\\74e5658d-cdb1-4371-b5e2-de76d1368cdc_ASKME all.jpg"
+    },
+    {
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\Images\\855cab3e-8d9b-4962-bb00-819b93752e4a_ASKME MAX.jpg",
+      "PackagePath": "staticwebassets\\Images\\855cab3e-8d9b-4962-bb00-819b93752e4a_ASKME MAX.jpg"
+    },
+    {
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\Images\\8e3085c7-b5a4-4748-96b5-bd6fa428b3c2_Maxim (1).JPG",
+      "PackagePath": "staticwebassets\\Images\\8e3085c7-b5a4-4748-96b5-bd6fa428b3c2_Maxim (1).JPG"
+    },
+    {
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\Images\\91287357-77f3-4bb4-962b-4e1d98c7674a_Maxim (2).JPG",
+      "PackagePath": "staticwebassets\\Images\\91287357-77f3-4bb4-962b-4e1d98c7674a_Maxim (2).JPG"
+    },
+    {
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\Images\\Leonardo_Phoenix_A_warm_and_inviting_digital_illustration_of_a_1.jpg",
       "PackagePath": "staticwebassets\\Images\\Leonardo_Phoenix_A_warm_and_inviting_digital_illustration_of_a_1.jpg"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\Images\\ai.jpg",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\Images\\a280c49d-18b8-43be-aea4-89a926328706_images.jpg",
+      "PackagePath": "staticwebassets\\Images\\a280c49d-18b8-43be-aea4-89a926328706_images.jpg"
+    },
+    {
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\Images\\ai.jpg",
       "PackagePath": "staticwebassets\\Images\\ai.jpg"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\Images\\algo.jpg",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\Images\\algo.jpg",
       "PackagePath": "staticwebassets\\Images\\algo.jpg"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\Images\\cs.jpg",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\Images\\cs.jpg",
       "PackagePath": "staticwebassets\\Images\\cs.jpg"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\Images\\images.jpg",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\Images\\d73e30e1-8223-499e-9a66-f0ebc4663dbd_working.png",
+      "PackagePath": "staticwebassets\\Images\\d73e30e1-8223-499e-9a66-f0ebc4663dbd_working.png"
+    },
+    {
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\Images\\d93d881f-d8c6-4af4-8cd9-a668c6c4fdcc_working.png",
+      "PackagePath": "staticwebassets\\Images\\d93d881f-d8c6-4af4-8cd9-a668c6c4fdcc_working.png"
+    },
+    {
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\Images\\dfb30e8f-d4bf-445c-97ad-3626481797a3_working.png",
+      "PackagePath": "staticwebassets\\Images\\dfb30e8f-d4bf-445c-97ad-3626481797a3_working.png"
+    },
+    {
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\Images\\e24e5456-6b01-4192-bda2-42a8a73bbaf7_images.jpg",
+      "PackagePath": "staticwebassets\\Images\\e24e5456-6b01-4192-bda2-42a8a73bbaf7_images.jpg"
+    },
+    {
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\Images\\ee34690e-5d7c-4290-9eef-329751348a1f_working.png",
+      "PackagePath": "staticwebassets\\Images\\ee34690e-5d7c-4290-9eef-329751348a1f_working.png"
+    },
+    {
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\Images\\f2fb7c51-488d-48a0-afe9-cef8e7dbebcd_working.png",
+      "PackagePath": "staticwebassets\\Images\\f2fb7c51-488d-48a0-afe9-cef8e7dbebcd_working.png"
+    },
+    {
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\Images\\f8522671-db11-4fc2-8f7c-da39783e8d03_Maxim (2).JPG",
+      "PackagePath": "staticwebassets\\Images\\f8522671-db11-4fc2-8f7c-da39783e8d03_Maxim (2).JPG"
+    },
+    {
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\Images\\images.jpg",
       "PackagePath": "staticwebassets\\Images\\images.jpg"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\css\\site.css",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\favicon.ico",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\js\\site.js",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\Docs\\Maxim Docs\\.Net\\project\\new-test\\new-test\\LibraryManagement.UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

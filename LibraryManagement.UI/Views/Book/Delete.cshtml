@@ -1,4 +1,4 @@
-﻿@model LibraryManagement.BLL.Dtos.BookDtos
+﻿@model LibraryManagement.Models.Book
 
 <h2>Delete Book</h2>
 
@@ -14,13 +14,16 @@
         </p>
     </div>
 
-    <div class="form-actions">
-        <form asp-action="DeleteConfirmed" method="post">
-            <button type="submit" class="btn btn-danger">Delete</button>
-            <a asp-action="Index" class="btn btn-secondary">Cancel</a>
-        </form>
-    </div>
+    <form asp-action="DeleteConfirmed" asp-route-id="@Model.BookID" method="post">
+        <input type="hidden" asp-for="BookID" />
+
+        <div class="d-flex justify-content-between">
+            <button type="submit" class="btn btn-danger px-4">Delete</button>
+            <a asp-action="Index" class="btn btn-secondary px-4">Cancel</a>
+        </div>
+    </form>
 </div>
+
 
 <style>
     /* General Styles */

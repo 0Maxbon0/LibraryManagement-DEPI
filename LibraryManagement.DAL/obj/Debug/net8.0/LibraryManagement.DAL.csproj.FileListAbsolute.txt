@@ -70,3 +70,39 @@ E:\Enjy\new-test\new-testT\new-test\LibraryManagement.DAL\obj\Debug\net8.0\refin
 E:\Enjy\new-test\new-testT\new-test\LibraryManagement.DAL\obj\Debug\net8.0\LibraryManagement.DAL.pdb
 E:\Enjy\new-test\new-testT\new-test\LibraryManagement.DAL\obj\Debug\net8.0\LibraryManagement.DAL.genruntimeconfig.cache
 E:\Enjy\new-test\new-testT\new-test\LibraryManagement.DAL\obj\Debug\net8.0\ref\LibraryManagement.DAL.dll
+C:\Users\ALJAZEERA\Downloads\new-test\new-test\LibraryManagement.DAL\bin\Debug\net8.0\LibraryManagement.DAL.deps.json
+C:\Users\ALJAZEERA\Downloads\new-test\new-test\LibraryManagement.DAL\bin\Debug\net8.0\LibraryManagement.DAL.runtimeconfig.json
+C:\Users\ALJAZEERA\Downloads\new-test\new-test\LibraryManagement.DAL\bin\Debug\net8.0\LibraryManagement.DAL.dll
+C:\Users\ALJAZEERA\Downloads\new-test\new-test\LibraryManagement.DAL\bin\Debug\net8.0\LibraryManagement.DAL.pdb
+C:\Users\ALJAZEERA\Downloads\new-test\new-test\LibraryManagement.DAL\bin\Debug\net8.0\LibraryManagement.Models.dll
+C:\Users\ALJAZEERA\Downloads\new-test\new-test\LibraryManagement.DAL\bin\Debug\net8.0\LibraryManagement.Models.pdb
+C:\Users\ALJAZEERA\Downloads\new-test\new-test\LibraryManagement.DAL\obj\Debug\net8.0\LibraryManagement.DAL.csproj.AssemblyReference.cache
+C:\Users\ALJAZEERA\Downloads\new-test\new-test\LibraryManagement.DAL\obj\Debug\net8.0\LibraryManagement.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALJAZEERA\Downloads\new-test\new-test\LibraryManagement.DAL\obj\Debug\net8.0\LibraryManagement.DAL.AssemblyInfoInputs.cache
+C:\Users\ALJAZEERA\Downloads\new-test\new-test\LibraryManagement.DAL\obj\Debug\net8.0\LibraryManagement.DAL.AssemblyInfo.cs
+C:\Users\ALJAZEERA\Downloads\new-test\new-test\LibraryManagement.DAL\obj\Debug\net8.0\LibraryManagement.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ALJAZEERA\Downloads\new-test\new-test\LibraryManagement.DAL\obj\Debug\net8.0\LibraryManagement.DAL.sourcelink.json
+C:\Users\ALJAZEERA\Downloads\new-test\new-test\LibraryManagement.DAL\obj\Debug\net8.0\LibraryM.93B5E8B4.Up2Date
+C:\Users\ALJAZEERA\Downloads\new-test\new-test\LibraryManagement.DAL\obj\Debug\net8.0\LibraryManagement.DAL.dll
+C:\Users\ALJAZEERA\Downloads\new-test\new-test\LibraryManagement.DAL\obj\Debug\net8.0\refint\LibraryManagement.DAL.dll
+C:\Users\ALJAZEERA\Downloads\new-test\new-test\LibraryManagement.DAL\obj\Debug\net8.0\LibraryManagement.DAL.pdb
+C:\Users\ALJAZEERA\Downloads\new-test\new-test\LibraryManagement.DAL\obj\Debug\net8.0\LibraryManagement.DAL.genruntimeconfig.cache
+C:\Users\ALJAZEERA\Downloads\new-test\new-test\LibraryManagement.DAL\obj\Debug\net8.0\ref\LibraryManagement.DAL.dll
+D:\Docs\Maxim Docs\.Net\project\new-test\new-test\LibraryManagement.DAL\bin\Debug\net8.0\LibraryManagement.DAL.deps.json
+D:\Docs\Maxim Docs\.Net\project\new-test\new-test\LibraryManagement.DAL\bin\Debug\net8.0\LibraryManagement.DAL.runtimeconfig.json
+D:\Docs\Maxim Docs\.Net\project\new-test\new-test\LibraryManagement.DAL\bin\Debug\net8.0\LibraryManagement.DAL.dll
+D:\Docs\Maxim Docs\.Net\project\new-test\new-test\LibraryManagement.DAL\bin\Debug\net8.0\LibraryManagement.DAL.pdb
+D:\Docs\Maxim Docs\.Net\project\new-test\new-test\LibraryManagement.DAL\bin\Debug\net8.0\LibraryManagement.Models.dll
+D:\Docs\Maxim Docs\.Net\project\new-test\new-test\LibraryManagement.DAL\bin\Debug\net8.0\LibraryManagement.Models.pdb
+D:\Docs\Maxim Docs\.Net\project\new-test\new-test\LibraryManagement.DAL\obj\Debug\net8.0\LibraryManagement.DAL.csproj.AssemblyReference.cache
+D:\Docs\Maxim Docs\.Net\project\new-test\new-test\LibraryManagement.DAL\obj\Debug\net8.0\LibraryManagement.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\Maxim Docs\.Net\project\new-test\new-test\LibraryManagement.DAL\obj\Debug\net8.0\LibraryManagement.DAL.AssemblyInfoInputs.cache
+D:\Docs\Maxim Docs\.Net\project\new-test\new-test\LibraryManagement.DAL\obj\Debug\net8.0\LibraryManagement.DAL.AssemblyInfo.cs
+D:\Docs\Maxim Docs\.Net\project\new-test\new-test\LibraryManagement.DAL\obj\Debug\net8.0\LibraryManagement.DAL.csproj.CoreCompileInputs.cache
+D:\Docs\Maxim Docs\.Net\project\new-test\new-test\LibraryManagement.DAL\obj\Debug\net8.0\LibraryManagement.DAL.sourcelink.json
+D:\Docs\Maxim Docs\.Net\project\new-test\new-test\LibraryManagement.DAL\obj\Debug\net8.0\LibraryM.93B5E8B4.Up2Date
+D:\Docs\Maxim Docs\.Net\project\new-test\new-test\LibraryManagement.DAL\obj\Debug\net8.0\LibraryManagement.DAL.dll
+D:\Docs\Maxim Docs\.Net\project\new-test\new-test\LibraryManagement.DAL\obj\Debug\net8.0\refint\LibraryManagement.DAL.dll
+D:\Docs\Maxim Docs\.Net\project\new-test\new-test\LibraryManagement.DAL\obj\Debug\net8.0\LibraryManagement.DAL.pdb
+D:\Docs\Maxim Docs\.Net\project\new-test\new-test\LibraryManagement.DAL\obj\Debug\net8.0\LibraryManagement.DAL.genruntimeconfig.cache
+D:\Docs\Maxim Docs\.Net\project\new-test\new-test\LibraryManagement.DAL\obj\Debug\net8.0\ref\LibraryManagement.DAL.dll
