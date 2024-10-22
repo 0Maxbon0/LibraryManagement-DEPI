@@ -1,0 +1,496 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Docs\\Maxim Docs\\.Net\\Library\\Library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5919C9-BE77-44F6-945D-E60143449383}|Library\\Library.csproj|d:\\docs\\maxim docs\\.net\\library\\library\\library\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5919C9-BE77-44F6-945D-E60143449383}|Library\\Library.csproj|solutionrelative:library\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5919C9-BE77-44F6-945D-E60143449383}|Library\\Library.csproj|d:\\docs\\maxim docs\\.net\\library\\library\\library\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5919C9-BE77-44F6-945D-E60143449383}|Library\\Library.csproj|solutionrelative:library\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5919C9-BE77-44F6-945D-E60143449383}|Library\\Library.csproj|d:\\docs\\maxim docs\\.net\\library\\library\\library\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC5919C9-BE77-44F6-945D-E60143449383}|Library\\Library.csproj|solutionrelative:library\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5919C9-BE77-44F6-945D-E60143449383}|Library\\Library.csproj|d:\\docs\\maxim docs\\.net\\library\\library\\library\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5919C9-BE77-44F6-945D-E60143449383}|Library\\Library.csproj|solutionrelative:library\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5919C9-BE77-44F6-945D-E60143449383}|Library\\Library.csproj|d:\\docs\\maxim docs\\.net\\library\\library\\library\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5919C9-BE77-44F6-945D-E60143449383}|Library\\Library.csproj|solutionrelative:library\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5919C9-BE77-44F6-945D-E60143449383}|Library\\Library.csproj|d:\\docs\\maxim docs\\.net\\library\\library\\library\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5919C9-BE77-44F6-945D-E60143449383}|Library\\Library.csproj|solutionrelative:library\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5919C9-BE77-44F6-945D-E60143449383}|Library\\Library.csproj|d:\\docs\\maxim docs\\.net\\library\\library\\library\\controllers\\borrowingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5919C9-BE77-44F6-945D-E60143449383}|Library\\Library.csproj|solutionrelative:library\\controllers\\borrowingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5919C9-BE77-44F6-945D-E60143449383}|Library\\Library.csproj|d:\\docs\\maxim docs\\.net\\library\\library\\library\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC5919C9-BE77-44F6-945D-E60143449383}|Library\\Library.csproj|solutionrelative:library\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5919C9-BE77-44F6-945D-E60143449383}|Library\\Library.csproj|d:\\docs\\maxim docs\\.net\\library\\library\\library\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC5919C9-BE77-44F6-945D-E60143449383}|Library\\Library.csproj|solutionrelative:library\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5919C9-BE77-44F6-945D-E60143449383}|Library\\Library.csproj|d:\\docs\\maxim docs\\.net\\library\\library\\library\\data\\entities\\borrowingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5919C9-BE77-44F6-945D-E60143449383}|Library\\Library.csproj|solutionrelative:library\\data\\entities\\borrowingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5919C9-BE77-44F6-945D-E60143449383}|Library\\Library.csproj|d:\\docs\\maxim docs\\.net\\library\\library\\library\\data\\entities\\applicaitionuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5919C9-BE77-44F6-945D-E60143449383}|Library\\Library.csproj|solutionrelative:library\\data\\entities\\applicaitionuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5919C9-BE77-44F6-945D-E60143449383}|Library\\Library.csproj|d:\\docs\\maxim docs\\.net\\library\\library\\library\\data\\entities\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5919C9-BE77-44F6-945D-E60143449383}|Library\\Library.csproj|solutionrelative:library\\data\\entities\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5919C9-BE77-44F6-945D-E60143449383}|Library\\Library.csproj|d:\\docs\\maxim docs\\.net\\library\\library\\library\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC5919C9-BE77-44F6-945D-E60143449383}|Library\\Library.csproj|solutionrelative:library\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5919C9-BE77-44F6-945D-E60143449383}|Library\\Library.csproj|d:\\docs\\maxim docs\\.net\\library\\library\\library\\views\\borrowing\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC5919C9-BE77-44F6-945D-E60143449383}|Library\\Library.csproj|solutionrelative:library\\views\\borrowing\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5919C9-BE77-44F6-945D-E60143449383}|Library\\Library.csproj|d:\\docs\\maxim docs\\.net\\library\\library\\library\\views\\borrowing\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC5919C9-BE77-44F6-945D-E60143449383}|Library\\Library.csproj|solutionrelative:library\\views\\borrowing\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5919C9-BE77-44F6-945D-E60143449383}|Library\\Library.csproj|d:\\docs\\maxim docs\\.net\\library\\library\\library\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC5919C9-BE77-44F6-945D-E60143449383}|Library\\Library.csproj|solutionrelative:library\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5919C9-BE77-44F6-945D-E60143449383}|Library\\Library.csproj|d:\\docs\\maxim docs\\.net\\library\\library\\library\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC5919C9-BE77-44F6-945D-E60143449383}|Library\\Library.csproj|solutionrelative:library\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5919C9-BE77-44F6-945D-E60143449383}|Library\\Library.csproj|d:\\docs\\maxim docs\\.net\\library\\library\\library\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC5919C9-BE77-44F6-945D-E60143449383}|Library\\Library.csproj|solutionrelative:library\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5919C9-BE77-44F6-945D-E60143449383}|Library\\Library.csproj|d:\\docs\\maxim docs\\.net\\library\\library\\library\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC5919C9-BE77-44F6-945D-E60143449383}|Library\\Library.csproj|solutionrelative:library\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5919C9-BE77-44F6-945D-E60143449383}|Library\\Library.csproj|d:\\docs\\maxim docs\\.net\\library\\library\\library\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC5919C9-BE77-44F6-945D-E60143449383}|Library\\Library.csproj|solutionrelative:library\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5919C9-BE77-44F6-945D-E60143449383}|Library\\Library.csproj|d:\\docs\\maxim docs\\.net\\library\\library\\library\\models\\createuserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5919C9-BE77-44F6-945D-E60143449383}|Library\\Library.csproj|solutionrelative:library\\models\\createuserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5919C9-BE77-44F6-945D-E60143449383}|Library\\Library.csproj|d:\\docs\\maxim docs\\.net\\library\\library\\library\\data\\entities\\reviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5919C9-BE77-44F6-945D-E60143449383}|Library\\Library.csproj|solutionrelative:library\\data\\entities\\reviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5919C9-BE77-44F6-945D-E60143449383}|Library\\Library.csproj|d:\\docs\\maxim docs\\.net\\library\\library\\library\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC5919C9-BE77-44F6-945D-E60143449383}|Library\\Library.csproj|solutionrelative:library\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5919C9-BE77-44F6-945D-E60143449383}|Library\\Library.csproj|d:\\docs\\maxim docs\\.net\\library\\library\\library\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EC5919C9-BE77-44F6-945D-E60143449383}|Library\\Library.csproj|solutionrelative:library\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5919C9-BE77-44F6-945D-E60143449383}|Library\\Library.csproj|d:\\docs\\maxim docs\\.net\\library\\library\\library\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EC5919C9-BE77-44F6-945D-E60143449383}|Library\\Library.csproj|solutionrelative:library\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5919C9-BE77-44F6-945D-E60143449383}|Library\\Library.csproj|d:\\docs\\maxim docs\\.net\\library\\library\\library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5919C9-BE77-44F6-945D-E60143449383}|Library\\Library.csproj|solutionrelative:library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\Docs\\Maxim Docs\\.Net\\Library\\Library\\Library\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Library\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\Docs\\Maxim Docs\\.Net\\Library\\Library\\Library\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Library\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwKQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:33:12.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "D:\\Docs\\Maxim Docs\\.Net\\Library\\Library\\Library\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Library\\Controllers\\BooksController.cs",
+              "ToolTip": "D:\\Docs\\Maxim Docs\\.Net\\Library\\Library\\Library\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Library\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:19:37.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BorrowingController.cs",
+              "DocumentMoniker": "D:\\Docs\\Maxim Docs\\.Net\\Library\\Library\\Library\\Controllers\\BorrowingController.cs",
+              "RelativeDocumentMoniker": "Library\\Controllers\\BorrowingController.cs",
+              "ToolTip": "D:\\Docs\\Maxim Docs\\.Net\\Library\\Library\\Library\\Controllers\\BorrowingController.cs",
+              "RelativeToolTip": "Library\\Controllers\\BorrowingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:54:38.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Docs\\Maxim Docs\\.Net\\Library\\Library\\Library\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Library\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Docs\\Maxim Docs\\.Net\\Library\\Library\\Library\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Library\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwDIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:53:09.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReviewsController.cs",
+              "DocumentMoniker": "D:\\Docs\\Maxim Docs\\.Net\\Library\\Library\\Library\\Controllers\\ReviewsController.cs",
+              "RelativeDocumentMoniker": "Library\\Controllers\\ReviewsController.cs",
+              "ToolTip": "D:\\Docs\\Maxim Docs\\.Net\\Library\\Library\\Library\\Controllers\\ReviewsController.cs",
+              "RelativeToolTip": "Library\\Controllers\\ReviewsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:53:09.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Docs\\Maxim Docs\\.Net\\Library\\Library\\Library\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Library\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Docs\\Maxim Docs\\.Net\\Library\\Library\\Library\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Library\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:16:39.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Docs\\Maxim Docs\\.Net\\Library\\Library\\Library\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Library\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\Docs\\Maxim Docs\\.Net\\Library\\Library\\Library\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Library\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T12:09:43.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Docs\\Maxim Docs\\.Net\\Library\\Library\\Library\\Views\\Books\\Index.cshtml",
+              "RelativeDocumentMoniker": "Library\\Views\\Books\\Index.cshtml",
+              "ToolTip": "D:\\Docs\\Maxim Docs\\.Net\\Library\\Library\\Library\\Views\\Books\\Index.cshtml",
+              "RelativeToolTip": "Library\\Views\\Books\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T12:40:31.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Books.cs",
+              "DocumentMoniker": "D:\\Docs\\Maxim Docs\\.Net\\Library\\Library\\Library\\Data\\Entities\\Books.cs",
+              "RelativeDocumentMoniker": "Library\\Data\\Entities\\Books.cs",
+              "ToolTip": "D:\\Docs\\Maxim Docs\\.Net\\Library\\Library\\Library\\Data\\Entities\\Books.cs",
+              "RelativeToolTip": "Library\\Data\\Entities\\Books.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAA0wDIAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:23:42.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Docs\\Maxim Docs\\.Net\\Library\\Library\\Library\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "Library\\Views\\Users\\Index.cshtml",
+              "ToolTip": "D:\\Docs\\Maxim Docs\\.Net\\Library\\Library\\Library\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "Library\\Views\\Users\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T12:15:31.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Docs\\Maxim Docs\\.Net\\Library\\Library\\Library\\Views\\Borrowing\\Index.cshtml",
+              "RelativeDocumentMoniker": "Library\\Views\\Borrowing\\Index.cshtml",
+              "ToolTip": "D:\\Docs\\Maxim Docs\\.Net\\Library\\Library\\Library\\Views\\Borrowing\\Index.cshtml",
+              "RelativeToolTip": "Library\\Views\\Borrowing\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T12:43:02.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Docs\\Maxim Docs\\.Net\\Library\\Library\\Library\\Views\\Users\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Library\\Views\\Users\\Edit.cshtml",
+              "ToolTip": "D:\\Docs\\Maxim Docs\\.Net\\Library\\Library\\Library\\Views\\Users\\Edit.cshtml",
+              "RelativeToolTip": "Library\\Views\\Users\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T13:03:56.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BorrowingSystem.cs",
+              "DocumentMoniker": "D:\\Docs\\Maxim Docs\\.Net\\Library\\Library\\Library\\Data\\Entities\\BorrowingSystem.cs",
+              "RelativeDocumentMoniker": "Library\\Data\\Entities\\BorrowingSystem.cs",
+              "ToolTip": "D:\\Docs\\Maxim Docs\\.Net\\Library\\Library\\Library\\Data\\Entities\\BorrowingSystem.cs",
+              "RelativeToolTip": "Library\\Data\\Entities\\BorrowingSystem.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:56:34.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicaitionUser.cs",
+              "DocumentMoniker": "D:\\Docs\\Maxim Docs\\.Net\\Library\\Library\\Library\\Data\\Entities\\ApplicaitionUser.cs",
+              "RelativeDocumentMoniker": "Library\\Data\\Entities\\ApplicaitionUser.cs",
+              "ToolTip": "D:\\Docs\\Maxim Docs\\.Net\\Library\\Library\\Library\\Data\\Entities\\ApplicaitionUser.cs",
+              "RelativeToolTip": "Library\\Data\\Entities\\ApplicaitionUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:24:16.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Docs\\Maxim Docs\\.Net\\Library\\Library\\Library\\Views\\Borrowing\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Library\\Views\\Borrowing\\Delete.cshtml",
+              "ToolTip": "D:\\Docs\\Maxim Docs\\.Net\\Library\\Library\\Library\\Views\\Borrowing\\Delete.cshtml",
+              "RelativeToolTip": "Library\\Views\\Borrowing\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T12:43:00.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Docs\\Maxim Docs\\.Net\\Library\\Library\\Library\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Library\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Docs\\Maxim Docs\\.Net\\Library\\Library\\Library\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Library\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T12:00:01.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Docs\\Maxim Docs\\.Net\\Library\\Library\\Library\\Views\\Books\\Create.cshtml",
+              "RelativeDocumentMoniker": "Library\\Views\\Books\\Create.cshtml",
+              "ToolTip": "D:\\Docs\\Maxim Docs\\.Net\\Library\\Library\\Library\\Views\\Books\\Create.cshtml",
+              "RelativeToolTip": "Library\\Views\\Books\\Create.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAUwFkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T12:10:01.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Docs\\Maxim Docs\\.Net\\Library\\Library\\Library\\Views\\Books\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Library\\Views\\Books\\Edit.cshtml",
+              "ToolTip": "D:\\Docs\\Maxim Docs\\.Net\\Library\\Library\\Library\\Views\\Books\\Edit.cshtml",
+              "RelativeToolTip": "Library\\Views\\Books\\Edit.cshtml",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAGMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T12:12:35.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Docs\\Maxim Docs\\.Net\\Library\\Library\\Library\\Views\\Books\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Library\\Views\\Books\\Delete.cshtml",
+              "ToolTip": "D:\\Docs\\Maxim Docs\\.Net\\Library\\Library\\Library\\Views\\Books\\Delete.cshtml",
+              "RelativeToolTip": "Library\\Views\\Books\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T12:12:58.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreateUserViewModel.cs",
+              "DocumentMoniker": "D:\\Docs\\Maxim Docs\\.Net\\Library\\Library\\Library\\Models\\CreateUserViewModel.cs",
+              "RelativeDocumentMoniker": "Library\\Models\\CreateUserViewModel.cs",
+              "ToolTip": "D:\\Docs\\Maxim Docs\\.Net\\Library\\Library\\Library\\Models\\CreateUserViewModel.cs",
+              "RelativeToolTip": "Library\\Models\\CreateUserViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:24:08.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Docs\\Maxim Docs\\.Net\\Library\\Library\\Library\\Views\\Users\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Library\\Views\\Users\\Delete.cshtml",
+              "ToolTip": "D:\\Docs\\Maxim Docs\\.Net\\Library\\Library\\Library\\Views\\Users\\Delete.cshtml",
+              "RelativeToolTip": "Library\\Views\\Users\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T12:32:57.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Reviews.cs",
+              "DocumentMoniker": "D:\\Docs\\Maxim Docs\\.Net\\Library\\Library\\Library\\Data\\Entities\\Reviews.cs",
+              "RelativeDocumentMoniker": "Library\\Data\\Entities\\Reviews.cs",
+              "ToolTip": "D:\\Docs\\Maxim Docs\\.Net\\Library\\Library\\Library\\Data\\Entities\\Reviews.cs",
+              "RelativeToolTip": "Library\\Data\\Entities\\Reviews.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:24:38.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Docs\\Maxim Docs\\.Net\\Library\\Library\\Library\\Views\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "Library\\Views\\Users\\Create.cshtml",
+              "ToolTip": "D:\\Docs\\Maxim Docs\\.Net\\Library\\Library\\Library\\Views\\Users\\Create.cshtml",
+              "RelativeToolTip": "Library\\Views\\Users\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T12:09:52.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Docs\\Maxim Docs\\.Net\\Library\\Library\\Library\\appsettings.json",
+              "RelativeDocumentMoniker": "Library\\appsettings.json",
+              "ToolTip": "D:\\Docs\\Maxim Docs\\.Net\\Library\\Library\\Library\\appsettings.json",
+              "RelativeToolTip": "Library\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T11:57:43.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Docs\\Maxim Docs\\.Net\\Library\\Library\\Library\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Library\\appsettings.Development.json",
+              "ToolTip": "D:\\Docs\\Maxim Docs\\.Net\\Library\\Library\\Library\\appsettings.Development.json",
+              "RelativeToolTip": "Library\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T11:57:41.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Docs\\Maxim Docs\\.Net\\Library\\Library\\Library\\Program.cs",
+              "RelativeDocumentMoniker": "Library\\Program.cs",
+              "ToolTip": "D:\\Docs\\Maxim Docs\\.Net\\Library\\Library\\Library\\Program.cs",
+              "RelativeToolTip": "Library\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:52:58.607Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ca8cc5c7-0231-406a-95cd-aa5ed6ac0190}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

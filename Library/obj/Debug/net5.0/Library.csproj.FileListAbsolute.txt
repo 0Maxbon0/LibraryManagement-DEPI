@@ -1,0 +1,301 @@
+C:\Users\mosta\source\repos\Library\Library\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\mosta\source\repos\Library\Library\bin\Debug\net5.0\appsettings.json
+C:\Users\mosta\source\repos\Library\Library\bin\Debug\net5.0\Library.StaticWebAssets.xml
+C:\Users\mosta\source\repos\Library\Library\bin\Debug\net5.0\Library.exe
+C:\Users\mosta\source\repos\Library\Library\bin\Debug\net5.0\Library.deps.json
+C:\Users\mosta\source\repos\Library\Library\bin\Debug\net5.0\Library.runtimeconfig.json
+C:\Users\mosta\source\repos\Library\Library\bin\Debug\net5.0\Library.runtimeconfig.dev.json
+C:\Users\mosta\source\repos\Library\Library\bin\Debug\net5.0\Library.dll
+C:\Users\mosta\source\repos\Library\Library\bin\Debug\net5.0\ref\Library.dll
+C:\Users\mosta\source\repos\Library\Library\bin\Debug\net5.0\Library.pdb
+C:\Users\mosta\source\repos\Library\Library\bin\Debug\net5.0\Library.Views.dll
+C:\Users\mosta\source\repos\Library\Library\bin\Debug\net5.0\Library.Views.pdb
+C:\Users\mosta\source\repos\Library\Library\bin\Debug\net5.0\Humanizer.dll
+C:\Users\mosta\source\repos\Library\Library\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\mosta\source\repos\Library\Library\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\mosta\source\repos\Library\Library\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\mosta\source\repos\Library\Library\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\mosta\source\repos\Library\Library\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\mosta\source\repos\Library\Library\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\mosta\source\repos\Library\Library\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\mosta\source\repos\Library\Library\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mosta\source\repos\Library\Library\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mosta\source\repos\Library\Library\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mosta\source\repos\Library\Library\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mosta\source\repos\Library\Library\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mosta\source\repos\Library\Library\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mosta\source\repos\Library\Library\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\mosta\source\repos\Library\Library\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\mosta\source\repos\Library\Library\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\mosta\source\repos\Library\Library\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\mosta\source\repos\Library\Library\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mosta\source\repos\Library\Library\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mosta\source\repos\Library\Library\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mosta\source\repos\Library\Library\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mosta\source\repos\Library\Library\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mosta\source\repos\Library\Library\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\mosta\source\repos\Library\Library\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mosta\source\repos\Library\Library\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mosta\source\repos\Library\Library\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mosta\source\repos\Library\Library\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\mosta\source\repos\Library\Library\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mosta\source\repos\Library\Library\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mosta\source\repos\Library\Library\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mosta\source\repos\Library\Library\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mosta\source\repos\Library\Library\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mosta\source\repos\Library\Library\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mosta\source\repos\Library\Library\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mosta\source\repos\Library\Library\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mosta\source\repos\Library\Library\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mosta\source\repos\Library\Library\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mosta\source\repos\Library\Library\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mosta\source\repos\Library\Library\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mosta\source\repos\Library\Library\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mosta\source\repos\Library\Library\obj\Debug\net5.0\Library.csproj.AssemblyReference.cache
+C:\Users\mosta\source\repos\Library\Library\obj\Debug\net5.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mosta\source\repos\Library\Library\obj\Debug\net5.0\Library.AssemblyInfoInputs.cache
+C:\Users\mosta\source\repos\Library\Library\obj\Debug\net5.0\Library.AssemblyInfo.cs
+C:\Users\mosta\source\repos\Library\Library\obj\Debug\net5.0\Library.csproj.CoreCompileInputs.cache
+C:\Users\mosta\source\repos\Library\Library\obj\Debug\net5.0\Library.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mosta\source\repos\Library\Library\obj\Debug\net5.0\Library.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mosta\source\repos\Library\Library\obj\Debug\net5.0\Library.RazorAssemblyInfo.cache
+C:\Users\mosta\source\repos\Library\Library\obj\Debug\net5.0\Library.RazorAssemblyInfo.cs
+C:\Users\mosta\source\repos\Library\Library\obj\Debug\net5.0\staticwebassets\Library.StaticWebAssets.Manifest.cache
+C:\Users\mosta\source\repos\Library\Library\obj\Debug\net5.0\staticwebassets\Library.StaticWebAssets.xml
+C:\Users\mosta\source\repos\Library\Library\obj\Debug\net5.0\scopedcss\bundle\Library.styles.css
+C:\Users\mosta\source\repos\Library\Library\obj\Debug\net5.0\Library.TagHelpers.input.cache
+C:\Users\mosta\source\repos\Library\Library\obj\Debug\net5.0\Library.TagHelpers.output.cache
+C:\Users\mosta\source\repos\Library\Library\obj\Debug\net5.0\Library.RazorCoreGenerate.cache
+C:\Users\mosta\source\repos\Library\Library\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\mosta\source\repos\Library\Library\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\mosta\source\repos\Library\Library\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\mosta\source\repos\Library\Library\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\mosta\source\repos\Library\Library\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\mosta\source\repos\Library\Library\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\mosta\source\repos\Library\Library\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\mosta\source\repos\Library\Library\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\mosta\source\repos\Library\Library\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\mosta\source\repos\Library\Library\obj\Debug\net5.0\Library.RazorTargetAssemblyInfo.cache
+C:\Users\mosta\source\repos\Library\Library\obj\Debug\net5.0\Library.RazorTargetAssemblyInfo.cs
+C:\Users\mosta\source\repos\Library\Library\obj\Debug\net5.0\Library.Views.pdb
+C:\Users\mosta\source\repos\Library\Library\obj\Debug\net5.0\Library.csproj.CopyComplete
+C:\Users\mosta\source\repos\Library\Library\obj\Debug\net5.0\Library.dll
+C:\Users\mosta\source\repos\Library\Library\obj\Debug\net5.0\ref\Library.dll
+C:\Users\mosta\source\repos\Library\Library\obj\Debug\net5.0\Library.pdb
+C:\Users\mosta\source\repos\Library\Library\obj\Debug\net5.0\Library.genruntimeconfig.cache
+C:\Users\mosta\source\repos\Library\Library\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\mosta\source\repos\Library\Library\obj\Debug\net5.0\Razor\Views\Users\Create.cshtml.g.cs
+C:\Users\mosta\source\repos\Library\Library\obj\Debug\net5.0\Razor\Views\Users\Edit.cshtml.g.cs
+C:\Users\mosta\source\repos\Library\Library\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
+C:\Users\mosta\source\repos\Library\Library\obj\Debug\net5.0\Razor\Views\Books\Create.cshtml.g.cs
+C:\Users\mosta\source\repos\Library\Library\obj\Debug\net5.0\Razor\Views\Books\Edit.cshtml.g.cs
+C:\Users\mosta\source\repos\Library\Library\obj\Debug\net5.0\Razor\Views\Books\Index.cshtml.g.cs
+D:\dotnet VS\Library\Library\Library\bin\Debug\net5.0\appsettings.Development.json
+D:\dotnet VS\Library\Library\Library\bin\Debug\net5.0\appsettings.json
+D:\dotnet VS\Library\Library\Library\bin\Debug\net5.0\Library.StaticWebAssets.xml
+D:\dotnet VS\Library\Library\Library\bin\Debug\net5.0\Library.exe
+D:\dotnet VS\Library\Library\Library\bin\Debug\net5.0\Library.deps.json
+D:\dotnet VS\Library\Library\Library\bin\Debug\net5.0\Library.runtimeconfig.json
+D:\dotnet VS\Library\Library\Library\bin\Debug\net5.0\Library.runtimeconfig.dev.json
+D:\dotnet VS\Library\Library\Library\bin\Debug\net5.0\Library.dll
+D:\dotnet VS\Library\Library\Library\bin\Debug\net5.0\ref\Library.dll
+D:\dotnet VS\Library\Library\Library\bin\Debug\net5.0\Library.pdb
+D:\dotnet VS\Library\Library\Library\bin\Debug\net5.0\Library.Views.dll
+D:\dotnet VS\Library\Library\Library\bin\Debug\net5.0\Library.Views.pdb
+D:\dotnet VS\Library\Library\Library\bin\Debug\net5.0\Humanizer.dll
+D:\dotnet VS\Library\Library\Library\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\dotnet VS\Library\Library\Library\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\dotnet VS\Library\Library\Library\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\dotnet VS\Library\Library\Library\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\dotnet VS\Library\Library\Library\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\dotnet VS\Library\Library\Library\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\dotnet VS\Library\Library\Library\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\dotnet VS\Library\Library\Library\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\dotnet VS\Library\Library\Library\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\dotnet VS\Library\Library\Library\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\dotnet VS\Library\Library\Library\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\dotnet VS\Library\Library\Library\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\dotnet VS\Library\Library\Library\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\dotnet VS\Library\Library\Library\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\dotnet VS\Library\Library\Library\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\dotnet VS\Library\Library\Library\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\dotnet VS\Library\Library\Library\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\dotnet VS\Library\Library\Library\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\dotnet VS\Library\Library\Library\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\dotnet VS\Library\Library\Library\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\dotnet VS\Library\Library\Library\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\dotnet VS\Library\Library\Library\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\dotnet VS\Library\Library\Library\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\dotnet VS\Library\Library\Library\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\dotnet VS\Library\Library\Library\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\dotnet VS\Library\Library\Library\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\dotnet VS\Library\Library\Library\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\dotnet VS\Library\Library\Library\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\dotnet VS\Library\Library\Library\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\dotnet VS\Library\Library\Library\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\dotnet VS\Library\Library\Library\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dotnet VS\Library\Library\Library\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\dotnet VS\Library\Library\Library\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dotnet VS\Library\Library\Library\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\dotnet VS\Library\Library\Library\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dotnet VS\Library\Library\Library\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\dotnet VS\Library\Library\Library\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dotnet VS\Library\Library\Library\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\dotnet VS\Library\Library\Library\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\dotnet VS\Library\Library\Library\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\dotnet VS\Library\Library\Library\obj\Debug\net5.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet VS\Library\Library\Library\obj\Debug\net5.0\Library.AssemblyInfoInputs.cache
+D:\dotnet VS\Library\Library\Library\obj\Debug\net5.0\Library.AssemblyInfo.cs
+D:\dotnet VS\Library\Library\Library\obj\Debug\net5.0\Library.csproj.CoreCompileInputs.cache
+D:\dotnet VS\Library\Library\Library\obj\Debug\net5.0\Library.MvcApplicationPartsAssemblyInfo.cs
+D:\dotnet VS\Library\Library\Library\obj\Debug\net5.0\Library.MvcApplicationPartsAssemblyInfo.cache
+D:\dotnet VS\Library\Library\Library\obj\Debug\net5.0\Library.RazorAssemblyInfo.cache
+D:\dotnet VS\Library\Library\Library\obj\Debug\net5.0\Library.RazorAssemblyInfo.cs
+D:\dotnet VS\Library\Library\Library\obj\Debug\net5.0\staticwebassets\Library.StaticWebAssets.Manifest.cache
+D:\dotnet VS\Library\Library\Library\obj\Debug\net5.0\staticwebassets\Library.StaticWebAssets.xml
+D:\dotnet VS\Library\Library\Library\obj\Debug\net5.0\scopedcss\bundle\Library.styles.css
+D:\dotnet VS\Library\Library\Library\obj\Debug\net5.0\Library.TagHelpers.input.cache
+D:\dotnet VS\Library\Library\Library\obj\Debug\net5.0\Library.TagHelpers.output.cache
+D:\dotnet VS\Library\Library\Library\obj\Debug\net5.0\Library.RazorCoreGenerate.cache
+D:\dotnet VS\Library\Library\Library\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\dotnet VS\Library\Library\Library\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+D:\dotnet VS\Library\Library\Library\obj\Debug\net5.0\Razor\Views\Books\Create.cshtml.g.cs
+D:\dotnet VS\Library\Library\Library\obj\Debug\net5.0\Razor\Views\Books\Edit.cshtml.g.cs
+D:\dotnet VS\Library\Library\Library\obj\Debug\net5.0\Razor\Views\Books\Index.cshtml.g.cs
+D:\dotnet VS\Library\Library\Library\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\dotnet VS\Library\Library\Library\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\dotnet VS\Library\Library\Library\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\dotnet VS\Library\Library\Library\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\dotnet VS\Library\Library\Library\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\dotnet VS\Library\Library\Library\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\dotnet VS\Library\Library\Library\obj\Debug\net5.0\Razor\Views\Users\Create.cshtml.g.cs
+D:\dotnet VS\Library\Library\Library\obj\Debug\net5.0\Razor\Views\Users\Edit.cshtml.g.cs
+D:\dotnet VS\Library\Library\Library\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
+D:\dotnet VS\Library\Library\Library\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\dotnet VS\Library\Library\Library\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\dotnet VS\Library\Library\Library\obj\Debug\net5.0\Library.RazorTargetAssemblyInfo.cache
+D:\dotnet VS\Library\Library\Library\obj\Debug\net5.0\Library.RazorTargetAssemblyInfo.cs
+D:\dotnet VS\Library\Library\Library\obj\Debug\net5.0\Library.Views.pdb
+D:\dotnet VS\Library\Library\Library\obj\Debug\net5.0\Library.csproj.CopyComplete
+D:\dotnet VS\Library\Library\Library\obj\Debug\net5.0\Library.dll
+D:\dotnet VS\Library\Library\Library\obj\Debug\net5.0\ref\Library.dll
+D:\dotnet VS\Library\Library\Library\obj\Debug\net5.0\Library.pdb
+D:\dotnet VS\Library\Library\Library\obj\Debug\net5.0\Library.genruntimeconfig.cache
+D:\dotnet VS\Library\Library\Library\obj\Debug\net5.0\Razor\Views\Reviews\Index.cshtml.g.cs
+D:\dotnet VS\Library\Library\Library\obj\Debug\net5.0\Razor\Views\Reviews\Create.cshtml.g.cs
+D:\dotnet VS\Library\Library\Library\obj\Debug\net5.0\Razor\Views\Borrowing\Create.cshtml.g.cs
+D:\dotnet VS\Library\Library\Library\obj\Debug\net5.0\Razor\Views\Borrowing\Delete.cshtml.g.cs
+D:\dotnet VS\Library\Library\Library\obj\Debug\net5.0\Razor\Views\Borrowing\Index.cshtml.g.cs
+D:\dotnet VS\Library\Library\Library\obj\Debug\net5.0\Razor\Views\Borrowing\Return.cshtml.g.cs
+D:\dotnet VS\Library\Library\Library\obj\Debug\net5.0\Razor\Views\Books\Delete.cshtml.g.cs
+D:\dotnet VS\Library\Library\Library\obj\Debug\net5.0\Razor\Views\Users\Delete.cshtml.g.cs
+D:\dotnet VS\Library\Library\Library\obj\Debug\net5.0\Razor\Views\Reviews\Delete.cshtml.g.cs
+D:\dotnet VS\Library\Library\Library\obj\Debug\net5.0\Razor\Views\Reviews\Edit.cshtml.g.cs
+D:\dotnet VS\Library\Library\Library\obj\Debug\net5.0\Library.csproj.AssemblyReference.cache
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\bin\Debug\net5.0\appsettings.Development.json
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\bin\Debug\net5.0\appsettings.json
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\bin\Debug\net5.0\Library.StaticWebAssets.xml
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\bin\Debug\net5.0\Library.exe
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\bin\Debug\net5.0\Library.deps.json
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\bin\Debug\net5.0\Library.runtimeconfig.json
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\bin\Debug\net5.0\Library.runtimeconfig.dev.json
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\bin\Debug\net5.0\Library.dll
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\bin\Debug\net5.0\Library.pdb
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\bin\Debug\net5.0\Library.Views.dll
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\bin\Debug\net5.0\Library.Views.pdb
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\bin\Debug\net5.0\Humanizer.dll
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\obj\Debug\net5.0\Library.csproj.AssemblyReference.cache
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\obj\Debug\net5.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\obj\Debug\net5.0\Library.AssemblyInfoInputs.cache
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\obj\Debug\net5.0\Library.AssemblyInfo.cs
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\obj\Debug\net5.0\Library.csproj.CoreCompileInputs.cache
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\obj\Debug\net5.0\Library.MvcApplicationPartsAssemblyInfo.cs
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\obj\Debug\net5.0\Library.MvcApplicationPartsAssemblyInfo.cache
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\obj\Debug\net5.0\Library.RazorAssemblyInfo.cache
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\obj\Debug\net5.0\Library.RazorAssemblyInfo.cs
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\obj\Debug\net5.0\Library.TagHelpers.input.cache
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\obj\Debug\net5.0\Library.TagHelpers.output.cache
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\obj\Debug\net5.0\Library.RazorCoreGenerate.cache
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\obj\Debug\net5.0\Razor\Views\Books\Create.cshtml.g.cs
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\obj\Debug\net5.0\Razor\Views\Books\Delete.cshtml.g.cs
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\obj\Debug\net5.0\Razor\Views\Books\Edit.cshtml.g.cs
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\obj\Debug\net5.0\Razor\Views\Books\Index.cshtml.g.cs
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\obj\Debug\net5.0\Razor\Views\Borrowing\Create.cshtml.g.cs
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\obj\Debug\net5.0\Razor\Views\Borrowing\Delete.cshtml.g.cs
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\obj\Debug\net5.0\Razor\Views\Borrowing\Index.cshtml.g.cs
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\obj\Debug\net5.0\Razor\Views\Borrowing\Return.cshtml.g.cs
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\obj\Debug\net5.0\Razor\Views\Reviews\Create.cshtml.g.cs
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\obj\Debug\net5.0\Razor\Views\Reviews\Delete.cshtml.g.cs
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\obj\Debug\net5.0\Razor\Views\Reviews\Edit.cshtml.g.cs
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\obj\Debug\net5.0\Razor\Views\Reviews\Index.cshtml.g.cs
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\obj\Debug\net5.0\Razor\Views\Users\Create.cshtml.g.cs
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\obj\Debug\net5.0\Razor\Views\Users\Delete.cshtml.g.cs
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\obj\Debug\net5.0\Razor\Views\Users\Edit.cshtml.g.cs
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\obj\Debug\net5.0\Library.RazorTargetAssemblyInfo.cache
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\obj\Debug\net5.0\Library.RazorTargetAssemblyInfo.cs
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\obj\Debug\net5.0\Library.Views.pdb
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\obj\Debug\net5.0\scopedcss\bundle\Library.styles.css
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\obj\Debug\net5.0\staticwebassets\Library.StaticWebAssets.Manifest.cache
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\obj\Debug\net5.0\staticwebassets\Library.StaticWebAssets.Pack.cache
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\obj\Debug\net5.0\staticwebassets\msbuild.Library.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\obj\Debug\net5.0\staticwebassets\msbuild.build.Library.props
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Library.props
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Library.props
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\obj\Debug\net5.0\staticwebassets\Library.StaticWebAssets.xml
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\obj\Debug\net5.0\Library.csproj.Up2Date
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\obj\Debug\net5.0\Library.dll
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\obj\Debug\net5.0\refint\Library.dll
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\obj\Debug\net5.0\Library.pdb
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\obj\Debug\net5.0\Library.genruntimeconfig.cache
+D:\Docs\Maxim Docs\.Net\Library\Library\Library\obj\Debug\net5.0\ref\Library.dll
