@@ -96,4 +96,5 @@ Contributions are welcome! Please follow these steps:
 
 - **Name**: Maxim Mamdouh Salib
 - **Email**: bonasalib@gmail.com
+- **LinkedIn**: [Maxim Salib](https://www.linkedin.com/in/maxim-salib/)
 - **GitHub**: [0Maxbon0](https://github.com/0Maxbon0)
